@@ -9,8 +9,23 @@ Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, 
 
 */
 
-/* TYPOGRAPHY */
+/* COLOUR GUIDE 
 
+White: #FFF;
+Black: #000;
+Grey: #f2f2f2; *used for backgrounds*
+Medium Grey: #cccccc; *potentially used for buttons* *still testing*
+
+Blue: #0082d4;
+Red: #ff6a63;
+
+Footer Blue: #263542;
+
+*/
+
+
+
+/* TYPOGRAPHY */
 
 h1 {
 	font-size: 20px;
